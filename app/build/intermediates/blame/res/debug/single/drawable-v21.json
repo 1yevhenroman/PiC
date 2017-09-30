@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yevhen/Documents/GitRepository/PiC/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/yevhen/.android/build-cache/41d399d3d1cbcf78174b4e6b34c5adb1fba1b0c4/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/yevhen/Documents/GitRepository/PiC/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/yevhen/.android/build-cache/41d399d3d1cbcf78174b4e6b34c5adb1fba1b0c4/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/yevhen/Documents/GitRepository/PiC/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/yevhen/.android/build-cache/41d399d3d1cbcf78174b4e6b34c5adb1fba1b0c4/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/yevhen/Documents/GitRepository/PiC/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/yevhen/.android/build-cache/41d399d3d1cbcf78174b4e6b34c5adb1fba1b0c4/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]
